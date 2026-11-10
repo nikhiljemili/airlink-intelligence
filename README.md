@@ -6,7 +6,7 @@ CAP 6318 team project: robustness, accessibility, and recovery in the US airport
 **Robustness, accessibility, and recovery in the US airport network**
 CAP 6318 team project · Trung Hieu Le, Zongyou Xiang, Sri Nikhil Jemili
 
-🌐 **Live website:** https://nikhiljemili.github.io/airlink-intelligence/
+🌐 **Live website:** https://xiangzongyou.com/airlink-intelligence/
 
 ## What this project asks
 
